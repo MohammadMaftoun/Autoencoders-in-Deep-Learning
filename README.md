@@ -1,4 +1,4 @@
-**# 🧠 Autoencoders & Variational Autoencoders Collection
+## 🧠 Autoencoders & Variational Autoencoders Collection
 
 A hands-on deep learning project focused on understanding, implementing, and experimenting with **Autoencoders (AE)** and multiple advanced **Variational Autoencoder (VAE)** architectures using **PyTorch**.
 
@@ -135,4 +135,3 @@ This repository is more than just implementations — it is a practical journey 
 
 Explore the latent space. Reconstruct ideas. Generate possibilities.
 
-**
